@@ -1,6 +1,6 @@
 # Cephalometric Landmark Detection via Bayesian CNN
 
-The code implementation of the paper `Automated cephalometric landmark detection with confidence regions using Bayesian convolutional neural networks`.
+The code implementation of the paper [`Automated cephalometric landmark detection with confidence regions using Bayesian convolutional neural networks`](https://link.springer.com/article/10.1186/s12903-020-01256-7).
 
 <p float='middle'>
   <img src='/assets/landmarks.jpg' align='left' width="55%"/>
@@ -16,13 +16,6 @@ The goal of this project is to locate predefined landmarks from 2D lateral cepha
 ## Algorithm
 
 ![algorithm](/assets/algorithm.png)
-<!-- <img src='/assets/algorithm.png' width="100%"/> -->
-
-
-
-<!-- <p class="text-center">
-{% include elements/button.html link="https://link.springer.com/article/10.1186/s12903-020-01256-7" text="Paper" %}
-</p> -->
 
 
 ## Citation
