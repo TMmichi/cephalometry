@@ -2,10 +2,7 @@
 
 The code implementation of the paper [`Automated cephalometric landmark detection with confidence regions using Bayesian convolutional neural networks`](https://link.springer.com/article/10.1186/s12903-020-01256-7).
 
-<p float='middle'>
-  <img src='/assets/landmarks.jpg' align='left' width="55%"/>
-  <img src='/assets/cephalometry.png' align='right' width="42%"/>
-</p>
+![final-result](/assets/cephalometry.png)
 
 ---
 
