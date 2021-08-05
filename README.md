@@ -3,8 +3,8 @@
 The goal of this project is to locate predefined landmarks from 2D lateral cephalogram (side view X-ray of a skull), where these landmarks are applied to diagnosis and treatment planning via various orthodontic and facial morphometric analyses. Along with providing accruate tracing result, letting the users gain access on how certain the predictions of the model are is also within the scope of this project.
 
 <p float='middle'>
-  <img src='/assets/landmarks.jpg' align='left' width="55%" alt="my alt text"/>
-  <img src='/assets/cephalometry.png' align='right' width="42%" alt="my alt text"/>
+  <img src='/assets/landmarks.jpg' align='left' width="55%"/>
+  <img src='/assets/cephalometry.png' align='right' width="42%"/>
 </p>
 
 
