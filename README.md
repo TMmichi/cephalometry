@@ -38,7 +38,7 @@ The objective of HRS is to estimate the exact location of the landmark with the 
 
 ## Result
 
-![result](/assets/full_shot.png)
+![result](/assets/full_shot2.png)
 
 <table>
   <thead>
